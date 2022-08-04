@@ -1,6 +1,7 @@
 # Real life Hogwards Invisibility Cloak
 
 Project Details:
+
 Domain: Computer Vision
 
 Project Description:
